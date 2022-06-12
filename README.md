@@ -2,7 +2,7 @@
 github 点赞 加星 星星 专注于 github star fork follow watch服务任意使用
 
 
-# [下载CRX 文件进行安装](http://xgithubs.com/install2.zip/)
+# [下载CRX 文件进行安装](http://xgithubs.com/install2.zip)
 
 
  
